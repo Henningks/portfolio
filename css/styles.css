@@ -1,0 +1,63 @@
+
+
+/* Style the navigation menu */
+.navbar {
+    width: 100%;
+    background-color: #07038C;
+    overflow: auto;
+}
+
+/* Navigation links */
+/* Style the navigation menu */
+.navbar {
+    width: 100%;
+    background-color: #F20732;
+    overflow: auto;
+}
+
+/* Navigation links */
+.navbar a {
+    float: left;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%;
+    /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center;
+    /* If you want the text to be centered */
+}
+
+/* Add a background color on mouse-over */
+.navbar a:hover {
+    background-color: #07038C;
+}
+
+/* Style the current/active link */
+.navbar a:active {
+    background-color: #0D1440;
+}
+
+#bannerimg {
+    width: 100%;
+    height: auto;
+}
+.pic{
+    position:relative;
+    top: 0px;
+    left: 300px;
+}
+
+.box{
+    border-bottom-style: groove;
+    position: relative;
+    text-align: left;
+    background-color:#3C96E8;
+    color: #0D1440;
+    font-size:35px;
+    padding: 10px;
+    
+    
+    
+}
