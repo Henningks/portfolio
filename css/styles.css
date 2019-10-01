@@ -50,12 +50,12 @@
 }
 
 .box{
-    border-bottom-style: groove;
-    position: relative;
-    text-align: left;
+    border-radius: 17px;
+    border-width: 5px;
+    border-style: solid;
     background-color:#3C96E8;
-    color: #0D1440;
-    font-size:35px;
+    border-color: #0D1440;
+    font-size:25px;
     padding: 10px;
     
     
